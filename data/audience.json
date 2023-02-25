@@ -1,0 +1,21 @@
+{
+    "Adult" : ["Adult Non-Fiction", "Adult Fiction", "Adult Paperback",
+       "Adult Reference","Adult Paperbacks Tall","Adult Audiobook","Adult DVD"],
+    "Teen" : ["Older Teen Fiction", "Younger Teen  Fiction", 
+        "Teen Non-Fiction", "Teen Reference","Younger Teen  Paperback", 
+        "Younger Teen  Audiobook"],
+    "Children" : ["Children's Fiction","Children's Picture Paperback", 
+        "Children's Paperback","Children's Picture Book","Children's Non-Fiction", 
+        "Readalongs","Children's Board Book", "Children's Easy Reader", 
+        "Storytime Collection","Preschool  Picture Book",
+        "Children's Easy Reader Paperback","Caldecott/Newbery",
+        "Children's Non-Fiction Paperback", "Children's Reference", 
+        "Teen Reference","Children's Music"],
+    "Unknown" : ["Mystery", "Science Fiction", 
+        "Western","International Collection","ELL Collection", "Holiday", 
+        "Natural Resources", "Kentucky History", "Oversize","Urban Fiction", 
+        "Bestsellers", "Interlibrary Loan","Laptop", "Government Documents",
+        "Large Print", "Telereference", "Big Book", "College Shop", 
+        "Magazines and Newspaper","Listening Device", "Electronic","Music", 
+        "Book Discussion Kit"]
+}
